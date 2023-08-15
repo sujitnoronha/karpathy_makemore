@@ -31,7 +31,6 @@ MANIFEST
 *.manifest
 *.spec
 
-.ssh/*
 
 
 
@@ -80,7 +79,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+.ssh/
 # IPython
 profile_default/
 ipython_config.py
